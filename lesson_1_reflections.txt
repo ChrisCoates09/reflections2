@@ -1,0 +1,60 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    There were much fewer lines to contrast and compare.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If you made a fatal error, you could return to the point where you made the error and have a do-over.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I'm not sure yet.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Saving multiple files at once is more efficient than one at a time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log lists all the commits in reverse chronological order, git diff displays the differences between the original and updated files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+ The ability to go back to the point you made the error, and correct the mistake.  
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    learning, efficiency
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long run?
+
+You can see how it was developed a bit at a time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in git, vs. having versions automatically saved, like in Google Docs?
+
+Pros of git: You can return to any parts of the program to debug.
+Pros of GoogleDocs: You don't have to learn git.
+
+Why do you think some version control systems, like git, allow saving multiple files in one commit, while others, like Google Docs, treat each files seperately?
+
+My guess is that Google Docs was designed for the more novice user, or perhaps smaller projects, while git is for those with more experience, or to break down larger projects.
+
+How can you use the commands git diff and git log to view the history of files? The text highlighted in green were added from the previous commit, while the text highlighted in red were deleted from the previous commit.
+
+How might using version control make you more confident to make changes that could break something?
+
+Because you could load the previous version and get rid of the problem.
+
+Now that you have your workplace set up, what do you want to try using Git for?
+
+To keep whatever larger projects I do better organized.
+
+
+
+
