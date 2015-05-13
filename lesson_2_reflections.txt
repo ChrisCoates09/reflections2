@@ -1,0 +1,28 @@
+1. What happens when you initialize a repository? Why do you need to do it? 
+
+It initializes an empty Git repository at the end of the path. You need it to have a place to store your commits.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where files are moved in preparation of being committed.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+First, git add the filed pertaining to the first change you want to commit, then when you've added all the files, make to commit.
+
+4. What are some situations where branches would be helpful in keeping your history organized? How would branches help? 
+
+Branches would be helpful if you want multiple versions of your program, such as an easier or harder version, or different language version. Branches would help because the program changes you make would appear only on that branch, while on other versions it would stay as it was before.
+
+5. How do the diagrams help you visualize the branch structure?
+
+Git log --graph tells the user haw the branch structure was made and at which point each branch was created, hereby giving the user an overview of the entire project.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging transfers all of the changes made from the two branches into one commit. This was more than one developer can get all of their ideas across without getting in each others way.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+On the plus side, it saves time, and two or more people can make changes without stepping on each others toes. On the downside, it's not easy to learn.
+
