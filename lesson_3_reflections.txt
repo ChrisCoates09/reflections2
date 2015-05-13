@@ -1,0 +1,19 @@
+1. When would you want to create a remote repository rather than keeping all your work local?
+
+When you want to share your work with others.
+
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+In the event that there are conflicts that need to be addressed.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of the other?
+
+You can use fork to transfer another persons GH repository to your own GH account. A clone only applies to your local repositories. On branches, you can add features, fix bugs, and collaborate with other people.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+In the future, when more changes have been added, you can go back to it and fix the bugs if need be.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be easier to send files, but harder to keep track of the changes.
